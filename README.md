@@ -28,3 +28,9 @@ agregados:-uso de nodeJS
 V 0.3.2
 
 Fixes: minimas optimizaciones e inicio del header principal
+
+V 0.3.9
+
+agregados:-grandes mejoras a la estetica general
+          -agregado de diversos componentes de angularJS (header,banner,educacion,hys skills,etc)
+          -

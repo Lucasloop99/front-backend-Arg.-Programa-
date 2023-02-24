@@ -1,0 +1,29 @@
+.row-card{
+  padding: 20px;
+  background-color: lightgrey;
+  border-radius: 30px;
+  border-style: outset;
+  border-color: darksalmon;
+  margin-left: 130px;
+}
+h5{
+  color: darkslategray;
+}
+@font-face {
+  font-family:'oriental';
+  src: url(../../../assets/fonts/LaOriental-Bold.otf);
+}
+h1{
+  font-family:'oriental';
+  text-decoration: double underline crimson;
+  text-align: center;
+}
+.card-container{
+  width: auto;
+  padding-left: 0px;
+  background-color: grey;
+}
+.part1, .part2{
+  display: inline-block;
+  text-align: justify;
+}
