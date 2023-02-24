@@ -1,0 +1,105 @@
+.row{
+<<<<<<< Updated upstream
+  padding: 20px;
+  border-top: 10px;
+  border-bottom: 0;
+   border-left: 0;
+  border-right: 0;
+  border-color: salmon;
+  border-style: groove;
+  text-align: center;
+  --bs-gutter-x: 0rem;
+  }
+  div{
+    background-color: darkgray;
+  }
+  /*foto de perfil*/
+  @media (min-width: 576){
+   #photo{
+    position:absolute;
+    width: 15%;
+    border-radius: 100%;
+    box-shadow: 3px 3px 3px  lightgrey;
+    left: 3%;
+    top:600px;
+    }
+  }
+  @media (max-width: 575){
+    #photo{
+     position:absolute;
+     width: 30%;
+     border-radius: 100%;
+     box-shadow: 3px 3px 3px  lightgrey;
+     left: 33%;
+     top: 630px;
+     }
+    #row{
+    max-width: none;
+    margin: auto;
+    }
+   }
+
+  #photo{
+    border-radius: 100%;
+  }
+  #nombre{
+    font-weight: bold;
+    text-align: center;
+    top: 50%;
+    border-top-style: groove;
+    border-bottom-style: groove ;
+    border-color: black;
+  }
+=======
+padding: 20px;
+border-top: 10px;
+border-bottom: 0;
+ border-left: 0;
+border-right: 0;
+border-color: salmon;
+border-style: groove;
+text-align: center;
+--bs-gutter-x: 0rem;
+}
+div{
+  background-color: darkgray;
+}
+/*foto de perfil*/
+@media (min-width: 576){
+ #photo{
+  position:absolute;
+  width: 15%;
+  border-radius: 100%;
+  box-shadow: 3px 3px 3px  lightgrey;
+  left: 3%;
+  top:600px;
+  }
+}
+@media (max-width: 575){
+  #photo{
+   position:absolute;
+   width: 30%;
+   border-radius: 100%;
+   box-shadow: 3px 3px 3px  lightgrey;
+   left: 33%;
+   top: 630px;
+   }
+  #row{
+  max-width: none;
+  margin: auto;
+  }
+ }
+
+#photo{
+  border-radius: 100%;
+}
+#nombre{
+  font-weight: bold;
+  text-align: center;
+  top: 50%;
+  border-top-style: groove;
+  border-bottom-style: groove ;
+  border-color: black;
+}
+>>>>>>> Stashed changes
+

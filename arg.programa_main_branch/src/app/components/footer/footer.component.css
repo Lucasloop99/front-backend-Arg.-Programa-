@@ -1,0 +1,25 @@
+.row{
+  background-color: #abb5b5;
+  border-top-color: slategray;
+  border-top-style: double;
+}
+<<<<<<< Updated upstream
+@font-face{
+  font-family:'molot';
+  src: url(../../../assets/fonts/Molot.otf);
+}
+p{
+  font-family:'molot';
+}
+footer{
+  color:#000000;
+=======
+footer{
+  color:#fefe;
+>>>>>>> Stashed changes
+  font-size: 20px;
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  box-shadow: 2px -2px  5px gray;
+}

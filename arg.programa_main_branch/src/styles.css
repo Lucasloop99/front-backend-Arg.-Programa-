@@ -1,1 +1,14 @@
-/* You can add global styles to this file, and also import other style files */
+h1{color: black}
+h2 {
+  color: #bc5a45;
+  margin-left: 40px;
+  }
+h3 {
+  color: lightcoral;
+  margin-left: 40px;
+}
+h4 {
+  color: lightpink;
+  margin-left: 40px;
+}
+h5{color: lightgray}
