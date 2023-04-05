@@ -26,11 +26,8 @@
 }
 
 /*fuente personalizada*/
-<<<<<<< Updated upstream
+
 @font-face{
-=======
-@font-face {
->>>>>>> Stashed changes
   font-family:'linebeam';
   src: url(../../../assets/fonts/Linebeam.ttf);
 }
@@ -40,30 +37,26 @@ h1{
   display:flex;
   text-decoration:underline;
   font-family:'linebeam';
-  font-size: 5em;
-<<<<<<< Updated upstream
+  font-size: 6em;
   color: lightgray;
-=======
-  color: darkgray;
->>>>>>> Stashed changes
   position: absolute;
-  top: 50%;
-  left: 34%;
+  top: 40%;
+  left: 28%;
   right: 50%;
   bottom: 50%;
   transform: translateX(-50%), translateY(-50%);
 }
-
 @media (max-width: 576px){
   h1{
     display: flex;
     position: absolute;
-    top: 50%;
-    left: 3%;
-    right: 50%;
-    bottom: 50%;
+    top: 70%;
+    left: 2%;
+    font-size: 350%;
    }
-   #container{
+   .container{
     max-width: none;
+    height: 60vh;
    }
- }
+
+  }

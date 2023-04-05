@@ -5,10 +5,6 @@ import { Component } from '@angular/core';
   templateUrl: './ap-logo.component.html',
   styleUrls: ['./ap-logo.component.css']
 })
-<<<<<<< Updated upstream
 export class ApLogoComponent {
-=======
-export class APLogoComponent {
->>>>>>> Stashed changes
 
 }

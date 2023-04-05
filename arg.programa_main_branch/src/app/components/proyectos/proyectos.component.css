@@ -4,15 +4,16 @@
   border-radius: 30px;
   border-style: outset;
   border-color: darksalmon;
-<<<<<<< Updated upstream
-  margin-left: 130px;
-=======
->>>>>>> Stashed changes
+  margin-left: 160px;
+}
+@media (max-width: 576px){
+.row-card{
+  margin-left: 65px;
+}
 }
 h5{
   color: darkslategray;
 }
-<<<<<<< Updated upstream
 @font-face {
   font-family:'oriental';
   src: url(../../../assets/fonts/LaOriental-Bold.otf);
@@ -26,11 +27,6 @@ h1{
   width: auto;
   padding-left: 0px;
   background-color: grey;
-=======
-.card-container{
-  width: auto;
-  padding-left: 40px;
->>>>>>> Stashed changes
 }
 .part1, .part2{
   display: inline-block;

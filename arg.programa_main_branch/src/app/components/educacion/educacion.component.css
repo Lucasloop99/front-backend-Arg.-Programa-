@@ -23,13 +23,13 @@ h3{
   }
 p{
   display: inline;
-<<<<<<< Updated upstream
   text-align: right;
 }
 
 @media (max-width:576px){
 h2{
-  padding-left: 12%;
+  margin-left: 0px;
+  padding-left: 70px;
 }
 p{
   padding-left: 0px;
@@ -66,33 +66,12 @@ p{
 .logo{
   display: inline;
 }
-=======
-}
-
-@media (max-width:576px){
-  h2{
-    padding-left: 12%;
-   }
- }
-
-.fray{
-  max-width: 10%;
- }
-
- .saint{
-  max-width: 10%;
- }
-
- .UNSJ{
-  max-width: 10%;
- }
-
->>>>>>> Stashed changes
 .arrow{
   border: solid black;
   border-width: 0 4px 4px 0;
   display: inline-block;
   padding: 8px;
+  margin-left: 16px;
   transform: rotate(45deg);
   -webkit-transform: rotate(45deg);
 }
