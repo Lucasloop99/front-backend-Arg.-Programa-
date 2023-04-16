@@ -1,3 +1,34 @@
+.container{
+  display:flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.redes{
+  padding-right: 20px;
+}
+.btn{
+  padding-top: 15px;
+  border-width: medium;
+  font-family: 'molot';
+  padding-bottom: 12px;
+}
 #APlogo{
   width: 200px
+}
+img{
+  width: 50px
+}
+@media (max-width: 575px){
+.container{
+  flex-direction: column;
+}
+.redes{
+  display: flex;
+  flex-direction: column-reverse;
+  margin-bottom: 20px;
+  align-items: center;
+}
+.redes img{
+  margin: 0.25em;
+ }
 }

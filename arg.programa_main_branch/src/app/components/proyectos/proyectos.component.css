@@ -4,7 +4,12 @@
   border-radius: 30px;
   border-style: outset;
   border-color: darksalmon;
-  margin-left: 130px;
+  margin-left: 160px;
+}
+@media (max-width: 576px){
+.row-card{
+  margin-left: 65px;
+}
 }
 h5{
   color: darkslategray;

@@ -9,10 +9,16 @@
 @font-face {
   font-family:'oriental';
   src: url(../../../assets/fonts/LaOriental-Bold.otf);}
+@font-face {
+  font-family:'molot';
+  src: url(../../../assets/fonts/Molot.otf);}
 h1{
   display: inline;
 font-family: 'oriental';
 text-decoration: double underline whitesmoke;
+}
+.circle{
+  font-family:'molot';
 }
 @media (max-width:576px){
   h1{
